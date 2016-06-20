@@ -1,7 +1,7 @@
 # Computational multi-depth single-photon imaging
 
 Code and data used for  ``Computational multi-depth single-photon imaging" <br>
-by D. Shin, F. Xu, F.N.C. Wong, J.H. Shapiro, V.K. Goyal
+by D. Shin, F. Xu, F.N.C. Wong, J.H. Shapiro, V.K. Goyal <br>
 in Optics Express
 
 @article{shin2016computational,<br>
