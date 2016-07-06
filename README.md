@@ -7,7 +7,7 @@ in Optics Express
 Link to paper: <br>
 https://www.osapublishing.org/oe/abstract.cfm?uri=oe-24-3-1873
 
-
+BibTeX: <br>
 @article{shin2016computational,<br>
   &nbsp; title={Computational multi-depth single-photon imaging},<br>
   &nbsp; author={Shin, Dongeek and Xu, Feihu and Wong, Franco NC and Shapiro, Jeffrey H and Goyal, Vivek K},<br>
